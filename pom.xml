@@ -25,7 +25,7 @@
                     </executions>
                     <configuration>
                         <timestampFormat>{0,date,yyyy-MM-dd} {0,time,HH:mm:ss}</timestampFormat>
-                        <doCheck>false</doCheck>
+                        <doCheck>true</doCheck>
                         <doUpdate>false</doUpdate>
                     </configuration>
                 </plugin>
